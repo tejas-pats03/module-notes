@@ -1,0 +1,17 @@
+in order to compile .py file
+	go to the folder where .py file is saved e.g. "d:\\work" and give following command
+
+python -m First.py
+
+after this you will get to see "__pycache__" folder inside the current working folder (d:\\work).
+
+inside this "__pycache__" folder you will get
+	"First.cpython-310.pyc" file
+
+
+
+how to run .pyc file?
+
+
+D:\work\__pycache__>python First.cpython-310.pyc
+
